@@ -1,0 +1,6 @@
+When comparing Docker with Singularity, HPC (high performance computing) is usually brought up. Both run on the container idea but when talking about scalability, Singularity was designed with that in mind over Docker. To activate the container Docker runs the daemon on each host while Singularity works more like an executable (image file). In the end the features from Singulaity make it more useful for Machine and Deep learning.
+
+Source:
+https://www.nextplatform.com/2018/03/19/singularity-containers-for-hpc-deep-learning/
+https://www.quora.com/If-a-Docker-exists-why-would-anyone-use-singularity
+http://geekyap.blogspot.com/2016/11/docker-vs-singularity-vs-shifter-in-hpc.html
